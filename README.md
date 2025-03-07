@@ -1,5 +1,8 @@
 # Telecom-Churn-Analysis
 The Orange Telecom's Customer Churn Analysis
+
+![image](https://github.com/user-attachments/assets/4844400b-10a4-40d5-ae4e-de856e1e03a0)
+
 ## Description
 In this project we are going to analyse the churn rate of The Orange Telecom corporation.Also Analyse the area from where the churn customer belong and the  service used by them provided by the corporation and then we  plan stragety to reduce churn rate.
 
@@ -39,3 +42,10 @@ To reduce churn and improve customer retention, the company should:
 * Reassess international plan offerings, as a significant proportion of churned customers belong to this category.
 * Introduce targeted retention strategies for customers around the 100-day account length mark.
 * Monitor high-usage customers and offer personalized incentives to prevent churn.
+
+## Tools Used
+* Python
+* Pandas
+* Numpy
+* Matplotlib
+* Seaborn
