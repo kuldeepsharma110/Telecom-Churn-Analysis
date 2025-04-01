@@ -4,7 +4,7 @@ The Orange Telecom's Customer Churn Analysis
 ![image](https://github.com/user-attachments/assets/4844400b-10a4-40d5-ae4e-de856e1e03a0)
 
 ## Description
-In this project we are going to analyse the churn rate of The Orange Telecom corporation.Also Analyse the area from where the churn customer belong and the  service used by them provided by the corporation and then we  plan stragety to reduce churn rate.
+In this project we are going to analyse the churn rate of The Orange Telecom corporation. Also Analyse the area from where the churn customer belong and the  service used by them provided by the corporation and then we  plan stragety to reduce churn rate.
 
 ## Problem Statement
  The Orange Telecom's Churn Dataset, consists of cleaned customer activity data (features), along with a churn label specifying whether a customer cancelled the subscription. Explore and analyze the data to discover key factors responsible for customer churn and come up with ways/recommendations to ensure customer retention.
@@ -12,11 +12,11 @@ In this project we are going to analyse the churn rate of The Orange Telecom cor
 ## Data Overview
 The dataset given is a dataset of service used by customer and they churned or not. There are different types of data/variables in this given dataset.In the dataset there are 4 type of data type integer, float, object, boolean.
 
-The telecom dataset contain 3333 rows and 20 coloumns
+The telecom dataset contain 3333 rows and 20 columns
 
 
 
-Dataset has 20 columns which are the services and churn . Let's look at each column -
+Dataset has 20 columns which are the services and churn. Let's look at each column -
 
 'State', 'Account length', 'Area code', 'International plan',
        'Voice mail plan', 'Number vmail messages', 'Total day minutes',
